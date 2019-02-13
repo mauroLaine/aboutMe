@@ -1,4 +1,58 @@
 <resources>
     <string name="app_name">KotlinAboutMe</string>
     <string name="name">Mauricio Laine</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_info">Hi my name is Mauricio Laine and I like cats.
+        This one of my favourites songs:
+        [Verse 1]
+        You know that it would be untrue
+        You know that I would be a liar
+        If I was to say to you
+        Girl, we couldn\'t get much higher
+
+        [Chorus]
+        Come on baby, light my fire
+        Come on baby, light my fire
+        Try to set the night on fire
+
+        [Verse 2]
+        The time to hesitate is through
+        No time to wallow in the mire
+        Try now we can only lose
+        And our love become a funeral pyre
+
+        [Chorus]
+        Come on baby, light my fire
+        Come on baby, light my fire
+        Try to set the night on fire
+        Yeah…
+
+        [Bridge]
+
+        [Verse 2]
+        The time to hesitate is through
+        No time to wallow in the mire
+        Try now we can only lose
+        And our love become a funeral pyre
+
+        [Chorus]
+        Come on baby, light my fire
+        Come on baby, light my fire
+        Try to set the night on fire
+        Yeah
+
+        [Verse 1]
+        You know that it would be untrue
+        You know that I would be a liar
+        If I was to say to you
+        Girl, we couldn't get much higher
+
+        [Chorus]
+        Come on baby, light my fire
+        Come on baby, light my fire
+        Try to set the night on fire
+        Try to set the night on fire
+        Try to set the night on fire
+        Try to set the night on fire
+    </string>
 </resources>
