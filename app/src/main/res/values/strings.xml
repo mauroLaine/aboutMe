@@ -55,4 +55,6 @@
         Try to set the night on fire
         Try to set the night on fire
     </string>
+    <string name="nickname">What\'s your nickname?</string>
+    <string name="done">Done</string>
 </resources>
